@@ -1,6 +1,6 @@
 ### Hi there, I'm Ujjal Baniya 👋
-
 [![Website](https://img.shields.io/website?label=ujjalbaniya.com.np&style=for-the-badge&url=http%3A%2F%2Fujjalbaniya.com.np)](https://codestackr.com)
+![UJJAL's github stats](https://github-readme-stats.vercel.app/api?username=ujjal-baniya)
 
 
 - 🔭 I’m currently studying in SRKR
