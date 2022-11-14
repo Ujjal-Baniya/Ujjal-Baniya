@@ -4,7 +4,6 @@
 <br>
 ![UJJAL's github stats](https://github-readme-stats.vercel.app/api?username=ujjal-baniya)
 
-- 🔭 I’m currently studying in SRKR
 - 👯 I’m looking to collaborate with other content creators
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to Rap 
