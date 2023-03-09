@@ -4,9 +4,8 @@
 <br>
 ![UJJAL's github stats](https://github-readme-stats.vercel.app/api?username=ujjal-baniya)
 
-- 👯 I’m looking to collaborate with other content creators
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to Rap 
+- 🌱 I’m currently in DL & AI, Web3, Flutter 🤣
+- ⚡ Code and CODE
 
 ### Connect with me:
 
