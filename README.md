@@ -4,7 +4,7 @@
 <br>
 ![UJJAL's github stats](https://github-readme-stats.vercel.app/api?username=ujjal-baniya)
 
-- 🌱 I’m currently in DL & AI, Web3, Flutter 🤣
+- 🌱 DL & AI, Web3, Flutter 
 - ⚡ Code and CODE
 
 ### Connect with me:
