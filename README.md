@@ -6,6 +6,7 @@
 
 - 🌱 DL & AI, Web3, Flutter 
 - ⚡ Code and CODE
+- Masters @ Ucalgary 
 
 ### Connect with me:
 
